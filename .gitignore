@@ -1,0 +1,6 @@
+directory-info.last
+directory-info.new
+*.log
+whitelist.txt
+test_source/
+test_quarantine/
